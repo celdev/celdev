@@ -9,7 +9,7 @@
 - 💞️ <b>I’m looking to collaborate on ...</b><br>
   - Azure Automation, ARM Templates, Bootcamps, Architecting Azure Solutions, Etc..
 - 📫 <b>How to reach me ...</b><br>
-  - <b>Please See: </b><a href="https://www.linkedin.com/in/joey-atwell-484a2521a/">LinkedIn Profile</a>
+  - <b>Please See: </b><a href="https://www.linkedin.com/in/joseph-atwell-484a2521a/">LinkedIn Profile</a>
 
 <!---
 celdev/celdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
